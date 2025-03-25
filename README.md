@@ -32,7 +32,7 @@ This project examines how operators control hydraulic shovels, focusing on swing
 
 If you have any questions or need further assistance, feel free to reach out:
 
-<br>
+<br/>
 
 - **Email:** [mateof.797@gmail.com](mailto:mateof.797@gmail.com)
 
