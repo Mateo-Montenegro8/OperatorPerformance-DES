@@ -10,15 +10,23 @@ This project examines how operators control hydraulic shovels, focusing on swing
 - Automatically processes the data and creates separate variables for each operator.
 - Provides detailed instructions on fitting the data using MATLAB's Distribution Fitter.
 
-## Requirements
-- MATLAB (with the "Distribution Fitter" App)
-- Excel file containing operator data with the first column representing operator numbers and subsequent columns for data.
-
 ## Installation
 
-1. Download or clone the repository.
-3. Ensure that MATLAB and Arena are installed on your system.
-4. Place the desired Excel file in an accessible location on your computer.
+1. **Download or Clone the Repository**  
+   - Click on the green **Code** button and select **Download ZIP**, or use:  
+     ```sh
+     git clone https://github.com/your-repo-name.git
+     ```
+   
+2. **Install Required Software**  
+   - Ensure that **MATLAB R2024a** (or later) and **Arena v16.1** are installed on your system.  
+
+3. **Prepare Your Data**  
+   - Place the required **XLSX** data file in an easily accessible location on your computer.  
+
+4. **Run the Project**  
+   - Open MATLAB, navigate to the project folder, and execute the script to process the data.
+
 
 ## Usage
 
