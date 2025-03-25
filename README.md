@@ -1,6 +1,9 @@
-# Data Processing Tool
+# Excavator Operator Performance - Discrete Event Simulation 
 
-This MATLAB-based tool allows you to process and analyze data from an Excel file. It reads operator data, creates variables dynamically, and guides you through the process of fitting the data using MATLAB's Distribution Fitter App.
+This repository contains the model developed for the paper 'Utilizing Digital Twins to Model and Optimize Shovel Operator Performance Through Arena Simulation.'
+
+## Project Description
+This project examines how operators control hydraulic shovels, focusing on swing motion and bucket rotation. The goal is to understand operator behavior and its impact on efficiency.
 
 ## Features
 - Select an Excel file containing data.
@@ -14,8 +17,8 @@ This MATLAB-based tool allows you to process and analyze data from an Excel file
 ## Installation
 
 1. Download or clone the repository.
-2. Ensure that MATLAB is installed on your system.
-3. Place the desired Excel file in an accessible location on your computer.
+3. Ensure that MATLAB and Arena are installed on your system.
+4. Place the desired Excel file in an accessible location on your computer.
 
 ## Usage
 
@@ -24,3 +27,7 @@ This MATLAB-based tool allows you to process and analyze data from an Excel file
 
    ```matlab
    DataProcessingTool
+
+> [!NOTE]  
+> This project was developed using **MATLAB R2024a** and **Arena v16.1**.  
+> Compatibility with other versions may vary.  
