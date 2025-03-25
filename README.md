@@ -25,7 +25,7 @@ This project examines how operators control hydraulic shovels, focusing on swing
 4. Run the MATLAB script (`OperatorDataProcessing.m`) and select the appropriate data folder.
 5. Use the **Distribution Fitter App** in MATLAB to identify the best-fit distribution for the data.
 
----
+##
 
 ### 2️⃣ Running the Arena Model
 1. Open the Arena model file (`operatorPerformance_Arena.doe`).
