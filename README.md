@@ -32,8 +32,7 @@ This project examines how operators control hydraulic shovels, focusing on swing
 
 If you have any questions or need further assistance, feel free to reach out:
 
-- **Email:** [mateof.797@gmail.com](mailto:mateof.797@gmail.com)
-- **GitHub Issues:** [Open an issue](https://github.com/your-repo/issues)
+- **Email:** [mateof.797@gmail.com](mailto:mateof.797@gmail.com)\
 
 > [!NOTE]  
 > This project was developed using **MATLAB R2024a** and **Arena v16.1**.  
